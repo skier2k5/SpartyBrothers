@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 212658164357137402}
   - component: {fileID: 61097323885170656}
   m_Layer: 0
-  m_Name: Dirt_GrassOneSide
+  m_Name: Dirt_GrassOneCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
